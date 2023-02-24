@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_page/static/css/main.cbe6ee32.css",
+    "main.js": "/react_page/static/js/main.0325b406.js",
+    "static/media/dweep io 1.svg": "/react_page/static/media/dweep io 1.e4254d945f7f28a4a6889b8fe41b54c9.svg",
+    "static/media/LinkedinLogo.svg": "/react_page/static/media/LinkedinLogo.f4466724897a183e3fb08c10ea588640.svg",
+    "static/media/InstagramLogo.svg": "/react_page/static/media/InstagramLogo.266cf007a759696816dcabb491c74025.svg",
+    "index.html": "/react_page/index.html",
+    "main.cbe6ee32.css.map": "/react_page/static/css/main.cbe6ee32.css.map",
+    "main.0325b406.js.map": "/react_page/static/js/main.0325b406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe6ee32.css",
+    "static/js/main.0325b406.js"
+  ]
+}
